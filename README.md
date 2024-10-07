@@ -50,15 +50,9 @@ El objetivo es facilitar la gestión hotelera, cubriendo tanto el manejo adminis
 - Factura de la reserva
 - Sugerencias de actividades
 
-### Login de Usuarios:
-- Acceso mediante correo y número de documento
-
 ---
 
 ## 🛡️ Características de la App Web Administrativa:
-
-### Login Administrativo:
-- Acceso mediante correo y contraseña
 
 ### Panel Administrativo:
 - CRUD de usuarios
